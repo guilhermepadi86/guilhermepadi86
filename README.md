@@ -4,27 +4,17 @@
 
 <div align="center">
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=guilhermepadi86&show_icons=true&theme=tokyonight&hide_title=true"
-      media="(prefers-color-scheme: dark)"
+    <img
+  height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermepadi86&show_icons=true&theme=tokyonight&hide_title=true" 
+  alt="GitHub stats do Guilherme Padilha" 
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api?username=guilhermepadi86&show_icons=true"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermepadi86&show_icons=true" />
   </picture>
 
   <picture>
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepadi86&layout=compact&theme=tokyonight"
-      media="(prefers-color-scheme: dark)"
+    <img
+  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepadi86&layout=compact&theme=tokyonight&langs_count=6" 
+  alt="GitHub stats do Guilherme Padilha" 
     />
-    <source
-      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepadi86&layout=compact"
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-    />
-    <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepadi86&layout=compact" />
   </picture>
 </div>
 
