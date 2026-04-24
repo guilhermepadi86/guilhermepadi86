@@ -5,15 +5,13 @@
 <div align="center">
   <picture>
     <img
-  height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermepadi86&show_icons=true&theme=tokyonight&hide_title=true" 
-  alt="GitHub stats do Guilherme Padilha" 
+  height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermepadi86&show_icons=true&theme=tokyonight&hide_title=true"
     />
   </picture>
 
   <picture>
     <img
-  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepadi86&layout=compact&theme=tokyonight&langs_count=6" 
-  alt="GitHub stats do Guilherme Padilha" 
+  height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermepadi86&layout=compact&theme=tokyonight&langs_count=6"
     />
   </picture>
 </div>
